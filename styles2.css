@@ -1,0 +1,18 @@
+body {font-size: 24px;}
+p.red {color: red;}
+p.red {color: red;}
+p.bold {font-weight: bold;}
+p.bold {font-weight: bold;}
+
+li.green {color:black;}
+li.green {color:black;}
+li.red {color: red;}
+li.green {color: green;}
+
+.size_1 {font-size: xx-small;}
+.size_2 {font-size: x-small;}
+.size_3 {font-size:medium;  }
+.size_4 {font-size: x-large;}
+.size_5 {font-size:large;}
+.size_6 {font-size:small}
+.size_7 {font-size: xx-large;}
